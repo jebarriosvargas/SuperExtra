@@ -1,0 +1,26 @@
+{
+  "index.qmd": {
+    "index.html": "594732f6"
+  },
+  "intro.qmd": {
+    "intro.html": "ba132afa"
+  },
+  "summary.qmd": {
+    "summary.html": "66c2e329"
+  },
+  "references.qmd": {
+    "references.html": "2a251457"
+  },
+  "4_Majorana.qmd": {
+    "4_Majorana.html": "e6396399"
+  },
+  "1_Segunda.qmd": {
+    "1_Segunda.html": "a947fc43"
+  },
+  "2_TeoriaBCS.qmd": {
+    "2_TeoriaBCS.html": "385c5cd1"
+  },
+  "3_Bogoliubov.qmd": {
+    "3_Bogoliubov.html": "6b2e37fd"
+  }
+}

@@ -1,0 +1,5 @@
+# Superconductividad topológica y modos de Majorana
+
+::: {.justify}
+La superconductividad topológica es un estado de la materia que presenta propiedades cuánticas no triviales, como la existencia de modos de Majorana en sus bordes. Estos modos son excitaciones cuánticas que se comportan como partículas de tipo fermión, pero que tienen propiedades únicas, como la capacidad de ser su propia antipartícula.
+:::

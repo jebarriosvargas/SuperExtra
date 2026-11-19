@@ -1,0 +1,5 @@
+# Formalismo de segunda cuantización
+
+::: {.justify}
+En este capítulo se introduce el formalismo de segunda cuantización, que es una herramienta fundamental en la física de partículas y en la teoría de la materia condensada. Este formalismo permite describir sistemas de partículas idénticas, como los electrones en un metal, utilizando operadores de creación y aniquilación.
+:::

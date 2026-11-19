@@ -1,0 +1,35 @@
+project:
+  type: book
+  output-dir: docs
+  render:
+    - "*.qmd"
+
+lang: es
+language:
+  title-block-author-single: "Autor"
+  title-block-date: "Fecha"
+
+book:
+  title: "Fundamentos Teóricos y Computacionales de la Superconductividad"
+  author: "LMJD y JEBV"
+  date: "11/19/2026"
+  chapters:
+    - index.qmd
+    - 1_Segunda.qmd
+    - 2_TeoriaBCS.qmd
+    - 3_Bogoliubov.qmd
+    - 4_Majorana.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme:
+      light: united
+      dark: slate
+    css: style.css
+    toc: true
+    toc-title: Contenido
+  pdf:
+    documentclass: scrreprt

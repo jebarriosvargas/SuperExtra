@@ -1,0 +1,82 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Fundamentos Teóricos y Computacionales de la Superconductividad",
+    "section": "",
+    "text": "Prefacio\n\nObjetivo general Comprender los fundamentos microscópicos de la superconductividad mediante el formalismo de segunda cuantización, la teoría de Bardeen-Cooper-Schrieffer (BCS) y las ecuaciones de Bogoliubov de Gennes (BdG), para analizar las excitaciones superconductoras y las propiedades topológicas de sistemas con apareamiento electrónico, utilizando herramientas computacionales.\nLa progresión conceptual del taller teórico-práctico consiste en deducir el Hamiltoniano BCS a partir de segunda cuantización, diagonalizarlo mediante la transformación de Bogoliubov, generalizar el problema al formalismo BdG y concluir con el modelo de Kitaev\n\nTemario\n\nFormalismo de segunda cuantización\nTeoría de Bardeen–Cooper–Schrieffer (BCS)\nTransformación de Bogoliubov y ecuaciones de Bogoliubov–de Gennes\nSuperconductividad topológica y modos de Majorana",
+    "crumbs": [
+      "Prefacio"
+    ]
+  },
+  {
+    "objectID": "index.html#fundamentos-teóricos-y-computacionales-de-la-superconductividad",
+    "href": "index.html#fundamentos-teóricos-y-computacionales-de-la-superconductividad",
+    "title": "Fundamentos Teóricos y Computacionales de la Superconductividad",
+    "section": "Fundamentos Teóricos y Computacionales de la Superconductividad",
+    "text": "Fundamentos Teóricos y Computacionales de la Superconductividad\nObjetivo general Comprender los fundamentos microscópicos de la superconductividad mediante el formalismo de segunda cuantización, la teoría de Bardeen-Cooper-Schrieffer (BCS) y las ecuaciones de Bogoliubov de Gennes (BdG), para analizar las excitaciones superconductoras y las propiedades topológicas de sistemas con apareamiento electrónico, utilizando herramientas computacionales.\nLa progresión conceptual del taller teórico-práctico consiste en deducir el Hamiltoniano BCS a partir de segunda cuantización, diagonalizarlo mediante la transformación de Bogoliubov, generalizar el problema al formalismo BdG y concluir con el modelo de Kitaev\nTemario 1. Formalismo de segunda cuantización 2. Teoría de Bardeen–Cooper–Schrieffer (BCS) 3. Transformación de Bogoliubov y ecuaciones de Bogoliubov–de Gennes 4. Superconductividad topológica y modos de Majorana",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "intro.html",
+    "href": "intro.html",
+    "title": "1  Introduction",
+    "section": "",
+    "text": "This is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n\n\n\nKnuth, Donald E. 1984. «Literate Programming». Comput. J. (USA) 27 (2): 97-111. https://doi.org/10.1093/comjnl/27.2.97.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
+    ]
+  },
+  {
+    "objectID": "summary.html",
+    "href": "summary.html",
+    "title": "2  Summary",
+    "section": "",
+    "text": "In summary, this book has no content whatsoever.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Summary</span>"
+    ]
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "References",
+    "section": "",
+    "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. (USA) 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
+    "crumbs": [
+      "References"
+    ]
+  },
+  {
+    "objectID": "4_Majorana.html",
+    "href": "4_Majorana.html",
+    "title": "4  Superconductividad topológica y modos de Majorana",
+    "section": "",
+    "text": "La superconductividad topológica es un estado de la materia que presenta propiedades cuánticas no triviales, como la existencia de modos de Majorana en sus bordes. Estos modos son excitaciones cuánticas que se comportan como partículas de tipo fermión, pero que tienen propiedades únicas, como la capacidad de ser su propia antipartícula.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Superconductividad topológica y modos de Majorana</span>"
+    ]
+  },
+  {
+    "objectID": "2_TeoriaBCS.html",
+    "href": "2_TeoriaBCS.html",
+    "title": "2  Teoría de Bardeen–Cooper–Schrieffer (BCS)",
+    "section": "",
+    "text": "La teoría de Bardeen–Cooper–Schrieffer (BCS) es la base teórica que explica la superconductividad en metales y aleaciones. Esta teoría, desarrollada por John Bardeen, Leon Cooper y Robert Schrieffer en 1957, describe cómo los electrones en un metal pueden formar pares de Cooper, que a su vez pueden condensarse en un estado cuántico coherente a bajas temperaturas.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Teoría de Bardeen–Cooper–Schrieffer (BCS)</span>"
+    ]
+  },
+  {
+    "objectID": "3_Bogoliubov.html",
+    "href": "3_Bogoliubov.html",
+    "title": "3  Transformación de Bogoliubov y ecuacuaciones de Bogoliubov–de Gennes",
+    "section": "",
+    "text": "La transformación de Bogoliubov es una herramienta matemática utilizada en física para diagonalizar hamiltonianos de sistemas de partículas interactivas. Las ecuaciones de Bogoliubov–de Gennes son un conjunto de ecuaciones diferenciales que describen la dinámica de un sistema superconductor, incluyendo tanto la parte normal como la parte superconductora.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Transformación de Bogoliubov y ecuacuaciones de Bogoliubov–de Gennes</span>"
+    ]
+  }
+]

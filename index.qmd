@@ -1,0 +1,20 @@
+# Prefacio {.unnumbered}
+
+::: {.justify}
+**Objetivo general**
+Comprender los fundamentos microscópicos de la superconductividad mediante el formalismo de segunda cuantización, la teoría de Bardeen-Cooper-Schrieffer (BCS) y las ecuaciones de Bogoliubov de Gennes (BdG), para analizar las excitaciones superconductoras y las propiedades topológicas de sistemas con apareamiento electrónico, utilizando herramientas computacionales.
+
+La progresión conceptual del taller teórico-práctico consiste en deducir el Hamiltoniano BCS a partir de segunda cuantización, diagonalizarlo mediante la transformación de Bogoliubov, generalizar el problema al formalismo BdG y concluir con el modelo de Kitaev
+::: 
+
+
+**Temario**
+
+1. Formalismo de segunda cuantización
+
+2. Teoría de Bardeen–Cooper–Schrieffer (BCS)
+
+3. Transformación de Bogoliubov y ecuaciones de Bogoliubov–de Gennes
+
+4. Superconductividad topológica y modos de Majorana
+
